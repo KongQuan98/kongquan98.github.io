@@ -6,7 +6,7 @@
     ],
     "target" : {
       "namespace" : "android_app",
-      "package_name" : "com.example.snakegame",
+      "package_name" : "com.example.snakegam",
       "sha256_cert_fingerprints" : [
         "A3:70:EC:91:3E:B7:5A:CD:5A:9E:AC:68:39:0D:DD:7B:BB:3F:3A:7C:17:60:FB:3A:98:E6:73:BE:0C:B6:3D:DE"
       ]
