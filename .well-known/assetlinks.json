@@ -6,9 +6,9 @@
     ],
     "target" : {
       "namespace" : "android_app",
-      "package_name" : "com.setel.mobile",
+      "package_name" : "com.setel.mobile.dev",
       "sha256_cert_fingerprints" : [
-        "6B:07:BC:3E:12:E5:89:DD:A3:8E:E8:28:86:4E:E1:09:93:84:DD:BF:5D:3A:6F:97:36:5A:74:87:F7:CC:9D:45"
+        "39:E0:B7:2D:74:54:49:89:88:AC:1D:2B:AF:81:F8:58:9D:3C:09:57:77:B3:10:F2:AB:02:34:C8:A8:41:41:DA"
       ]
     }
   }
